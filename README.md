@@ -44,7 +44,7 @@ This Python project utilizes the Tkinter library to create a graphical user inte
 
 4. **Set Countdowns:**
    - Enter the countdown duration in the format `dd:hh:mm:ss`.
-   ![Countdown Timer Setup](./gifs/setup.gif)
+   ![Countdown Timer Setup](test1.mp4)
    - Provide a name for the countdown.
    ![Multiple Timers](./gifs/multiple_timers.gif)
    - Click the "Click Me" button to start the timer.
