@@ -45,7 +45,7 @@ This Python project utilizes the Tkinter library to create a graphical user inte
 4. **Set Countdowns:**
    - Enter the countdown duration in the format `dd:hh:mm:ss`.
    <div style="text-align:center;">
-     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm81MTZwa2E5dTBuNjFvYzg3a2JkdXExeHFjYmc2NWpmcGtwZGN3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8vpvy11QVZ8JOFDLnx/giphy.gif" alt="Countdown Timer Setup" style="width:100%; max-width:800px;">
+     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm81MTZwa2E5dTBuNjFvYzg3a2JkdXExeHFjYmc2NWpmcGtwZGN3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8vpvy11QVZ8JOFDLnx/giphy.gif" alt="Countdown Timer Setup" style="width:100%; max-width:1000px;">
    </div>
 
    - Provide a name for the countdown.
