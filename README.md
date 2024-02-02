@@ -1,4 +1,4 @@
-# Countdown Timer with Tkinter ⏳🚀
+# Countdown Timer with Tkinter ⏳
 
 This Python project utilizes the Tkinter library to create a graphical user interface for setting up countdown timers with specific names and durations. Each timer runs independently in its own window, allowing users to keep track of multiple countdowns simultaneously.
 
@@ -12,13 +12,15 @@ This Python project utilizes the Tkinter library to create a graphical user inte
 ## Learning Outcomes 💡
 
 - **Threading and Thread Safety:** Practice and enhance your understanding of Python's threading library by implementing countdown timers in a multi-threaded environment.
-- **GUI Programming with Tkinter:** Gain hands
+- **GUI Programming with Tkinter:** Practice and enhance your understanding of Python's tkinter library.
 
 ## Getting Started 🚀
 
 1. **Requirements:**
    - Python 3.x
-   - Tkinter library
+   - Tkinter library (included in most Python installations)
+   - Threading library (included in Python standard library)
+
 
 2. **Installation:**
    - Clone the repository to your local machine.
