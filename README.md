@@ -44,11 +44,11 @@ This Python project utilizes the Tkinter library to create a graphical user inte
 
 4. **Set Countdowns:**
    - Enter the countdown duration in the format `dd:hh:mm:ss`.
-   [![Countdown Timer Setup](https://img.youtube.com/vi//0.jpg)](https://www.youtube.com/watch?v)
+   ![Countdown Timer Setup](./gifs/setup.gif)
    - Provide a name for the countdown.
-   [![Multiple Timers](https://img.youtube.com/vi/.jpg)](https://www.youtube.com/watch?v)
+   ![Multiple Timers](./gifs/multiple_timers.gif)
    - Click the "Click Me" button to start the timer.
-   [![Finish Countdown](https://img.youtube.com/vi/.jpg)](https://www.youtube.com/watch?v)
+   ![Finish Countdown](./gifs/finish_countdown.gif)
 
 5. **Finish a Countdown:**
    - Click the "Finish" button in the respective timer window to mark it as complete.
