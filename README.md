@@ -27,20 +27,20 @@ This Python project utilizes the Tkinter library to create a graphical user inte
    - Clone the repository to your local machine.
 
       ```bash
-      git clone https://github.com/your-username/countdown-timer.git
+      git clone https://github.com/your-username/CountDown-GUI.git
       ```
 
 3. **Run the Application:**
    - Navigate to the project directory.
 
       ```bash
-      cd countdown-timer
+      cd CountDown-GUI
       ```
 
    - Run the Python script.
 
       ```bash
-      python countdown_timer.py
+      python main.py
       ```
 
 4. **Set Countdowns:**
