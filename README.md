@@ -4,6 +4,7 @@ This Python project utilizes the Tkinter library to create a graphical user inte
 
 ## 🌟 Features 
 
+- **Threaded Countdowns:** Utilizes Python's threading library to handle countdowns concurrently, enhancing performance and responsiveness.
 - **User-friendly Interface:** The Tkinter GUI provides a simple and intuitive interface for entering countdown durations and names.
 - **Multiple Timers:** Users can set up multiple countdown timers with unique names and durations.
 - **Finish Button:** Each timer window includes a "Finish" button that, when clicked, marks the countdown as complete and disables the timer.
@@ -44,22 +45,27 @@ This Python project utilizes the Tkinter library to create a graphical user inte
 
 4. **Set Countdowns:**
    - Enter the countdown duration in the format `dd:hh:mm:ss`.
+   - Provide a name for the countdown.
+   - Click the "Click Me" button to start the timer.
+     
    <div style="text-align:center;">
      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm81MTZwa2E5dTBuNjFvYzg3a2JkdXExeHFjYmc2NWpmcGtwZGN3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8vpvy11QVZ8JOFDLnx/giphy.gif" alt="Countdown Timer Setup" style="width:120%; max-width:1600px;">
-   </div>
-
-   - Provide a name for the countdown.
-   ![Multiple Timers](./gifs/multiple_timers.gif)
-   - Click the "Click Me" button to start the timer.
-   ![Finish Countdown](./gifs/finish_countdown.gif)
+     
+     </div>
 
 5. **Finish a Countdown:**
    - Click the "Finish" button in the respective timer window to mark it as complete.
-
+     
+   <div style="text-align:center;">    
+     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Z2Yzk3amE4Z2R3ZDB5azJtcGl5dWFqbDlmOGp2anNmazE5cmE3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hsWtjwsBR0kSXixERX/giphy.gif" alt="Countdown Timer Setup" style="width:120%; max-width:1600px;">
+     
+     </div>
+  
 ## 🛠️ Troubleshooting 
 
 - If you encounter any issues or errors, please check the console for error messages.
 - Ensure that you have Python 3.x installed on your system.
 - Make sure the Tkinter library is available.
+- Make sure the usage of multi-threading is correct.
 
 
